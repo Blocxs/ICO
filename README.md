@@ -1,2 +1,2 @@
-# ICO
-ICO smart contracts
+# Token Distribution
+This repository contains the smart contracts involved with the CXS token distribution.
